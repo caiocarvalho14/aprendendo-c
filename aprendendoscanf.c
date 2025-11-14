@@ -38,6 +38,4 @@ int main(){
 	scanf("%d", &ano);
 	
 	printf("Idade: %d, Ano: %d",idade,ano);
-	
-	
 }
