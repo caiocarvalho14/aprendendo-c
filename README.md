@@ -8,4 +8,4 @@ Com Base no curso de Linguagem C, do professor Pietro Martins.
   </a>
 </p>
 
-Repo criado em: 11/04/2025.
+Repo criado em: 14/11/2025.
